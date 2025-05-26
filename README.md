@@ -27,3 +27,6 @@ Lazy.nvim
 10. nvim-lspconfig
 11. conform.nvim
 12. blink.cmp
+
+## Pyright
+1. Install [Node.js](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows)
